@@ -22,13 +22,17 @@ A challenge was determining when to follow instructions exactly and when to prob
 Another challenge was in Deliverable 2’s example graph for "Outcomes Based on Goals". The png provided did not match my work. It didn’t even have a Percentage Canceled line on the graph, but it was in the Key. I ultimately came to the conclusion the example was wrong.
 ## Results
 **- What are two conclusions you can draw about the Outcomes based on Launch Date?**
+
 May is the best month to create a campaign. December is the worst month to create a campaign.
 
 **- What can you conclude about the Outcomes based on Goals?**
+
 A goal of less than $1,000 has the highest rate of success. As the goal increases the cancelation rate increases, except for small bucket to bucket fluctuation.
 
 **- What are some limitations of this dataset?**
+
 The data summarizes the US as a whole, whereas there may be certain pockets of the US where the production might have a higher rate of success. It does not include if the funds raised were from random patrons or people that knew the person that created the campaign. For example, a campaign that only had 10 backers could have had 5 of those backers be friends of the creator.
 
 **- What are some other possible tables and/or graphs that we could create?**
+
 The graph I included from Deliverable 1, when outcomes were viewed as a percentage. A graph that looked at only Non-staff picks. Only about 12% of campaigns were staff picks, so Louise might want to take into account the likelihood of becoming a staff pick.
