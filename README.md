@@ -9,11 +9,13 @@ Create an analysis that gives Louise insight and strategy into creating a succes
 **Insight:** Summmer months saw a higher number of both successful campaigns as well as failed campaigns. When looking as the requested line graph the summer months appear to be a clear advantage for a successful campaign. However when you turn the data from "count of outcomes" to a stacked percent bar chart the swing looks much more subtle. Note: this png is different that the one we were asked for but is more telling, the requested png is in the repository.
 
 ![stacked_launch_outcomes](https://github.com/charlieburd/kickstarter-analysis/blob/master/stacked_launch_outcomes.png)
+
 **Takeaway:** May and June are the two best months to begin a kickstarter campaign. 
 ### Analysis of Outcomes Based on Goals
 **Insight:** As the Goal was increased the success rate decreased. This trend was consisted as each bucket increased except for $35,000-$39,999 and $40,000-$44,999. However only 2% of campaigns fell into those buckets.
 
 ![stacked_launch_outcomes](https://github.com/charlieburd/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
+
 **Takeaway:** Creating a goal of less than $1,000 has the highest chance of success. If that is too small of a goal, try to keep in below $4,999. If that is still too small ask for between $35,000-$44,999
 ### Challenges and Difficulties Encountered
 A challenge was determining when to follow instructions exactly and when you have to problem solve a bit. An example of this was when it asked you to create an excel sheet and  name it. It refered to "U.S." with periods in the name. But when it asked you to copy a formula, the formula would refer to the sheet as "US" without periods this would result in a REF error. This was not too much off a challenge for someone that knows the rules of excel but I can imagine it would be frustrating people with no experience.
